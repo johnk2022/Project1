@@ -72,3 +72,18 @@ footer {
 .active {
     border-bottom: 1px solid black;
 }
+
+
+#gallery {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 5px;
+	
+}
+
+#gallery > img {
+    width: 100%;
+	margin-bottom: 5px;
+}
+
