@@ -3,5 +3,46 @@
     padding: 0;
     border: none;
     font-family: sans-serif, sans-serif;
-	color: white;	
+	color: black;	
+}
+
+h1, h2{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#logo {
+    float: left;
+    font-size: 180%;
+    margin-left: 20px;
+}
+
+/* navigation links */
+
+#navlinks {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#navlinks #logo {
+    line-height: 75px;
+}
+
+#navlinks li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#navlinks a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#navlinks a:hover {
+    border-bottom: 1px solid black;
+}
+
+.active {
+    border-bottom: 1px solid black;
 }
