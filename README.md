@@ -14,7 +14,7 @@ This site was created in order to get familiar with common development tools lik
 
 ### Subject
 
-Coco the dog.  Puppy, Princess, Primidone, and all-round nuisance.
+Coco the dog.  Puppy, Princess, Primadonna, and all-round nuisance.
 
 ### Audience
 
@@ -33,6 +33,7 @@ DeZ-e for the Coco photos.
 YouTubers for the code tips and tricks, too many to mention.
 My Mentor - Plan more, code less !!!
 CodeInstitute and my fellow students for the assistance, encouragement and general moral boosters.
+Coffee
 
 ## Version History
 
@@ -46,7 +47,15 @@ CodeInstitute and my fellow students for the assistance, encouragement and gener
 5. Create gallery and add images. Update styles.
 6. Create blog. Update styles.
 
+**ToDo**
+Add index.html
+Add signup.html
+Review borders amd padding.
+Select appropriate colors and fonts.
+Work on a posative emotional response.
 
+##Project Wireframe
+![wire] (https://github.com/johnk2022/Project1/blob/055878338613ddeeb3b52a3ea14d810bdd202a8a/coco.jpg)
 ## Code verified
 
 ## Future Development
