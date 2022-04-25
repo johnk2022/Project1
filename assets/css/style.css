@@ -73,7 +73,6 @@ footer {
     border-bottom: 1px solid black;
 }
 
-
 #gallery {
     clear: both;
     line-height: 0;
@@ -87,3 +86,12 @@ footer {
 	margin-bottom: 5px;
 }
 
+#bloghead {
+    padding-top: 50px;
+    font-size: 200%;
+    text-align: center;
+}
+.blogpost {
+    padding: 10px;
+	text-align:center;
+}

@@ -40,11 +40,11 @@ CodeInstitute and my fellow students for the assistance, encouragement and gener
 1. Initial commit. Basic files with meta data and folder structure.
     Create folders /assets  /assets/css /assets/images
     Create files index.html blog.html gallery.html signup.html styles.css 
-    Add Boiler plate meta data and structure.
 2. Title and navigation links added to each page.  Add title, logo, H1 and H2 formatting and navigation links.
 3. Add footer and social media links to all pages.  Styles updated.
 4. Update css. Add background image to the body for all files.  Change text to white.
-5. Create gallery and add images.
+5. Create gallery and add images. Update styles.
+6. Create blog. Update styles.
 
 
 ## Code verified
