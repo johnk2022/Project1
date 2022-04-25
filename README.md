@@ -34,9 +34,16 @@ YouTubers for the code tips and tricks, too many to mention.
 My Mentor - Plan more, code less !!!
 CodeInstitute and my fellow students for the assistance, encouragement and general moral boosters.
 
-## Release History
+## Version History
 
-**April 25 2022:** Initial commit. Basic files with meta data and folder structure.
+**April 25 2022:** 
+1. Initial commit. Basic files with meta data and folder structure.
+    Create folders /assets  /assets/css /assets/images
+    Create files index.html blog.html gallery.html signup.html styles.css 
+    Add Boiler plate meta data and structure.
+2. Title and navigation links added to each page.  Add title, logo, H1 and H2 formatting and navigation links.
+3. Add footer and social media links to all pages.  Styles updated.
+
 
 ## Code verified
 
