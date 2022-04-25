@@ -43,6 +43,7 @@ CodeInstitute and my fellow students for the assistance, encouragement and gener
     Add Boiler plate meta data and structure.
 2. Title and navigation links added to each page.  Add title, logo, H1 and H2 formatting and navigation links.
 3. Add footer and social media links to all pages.  Styles updated.
+4. Update css. Add background image to the body for all files.  Change text to white.
 
 
 ## Code verified
