@@ -34,7 +34,7 @@ This project was written in HTML & CSS and is currently hosted on GitHub pages [
 
 ## Project Wireframe
 
-![wire] (https://github.com/johnk2022/Project1/blob/055878338613ddeeb3b52a3ea14d810bdd202a8a/coco.jpg)
+![Wireframe](coco.jpg)
 
 ## Credits
 
@@ -75,7 +75,8 @@ Coffee.
 6. Cleanup index text.
 7. Cleanup signup and gallery text.
 8. Correct minor spelling mistakes.  Update image locations.
-9. Update image locations in gallery and blog.  Not appearing on live website. 
+9. Update image locations in gallery and blog.  Not appearing on live website.
+10 Update README and wireframe image. 
 
 **ToDo**
 1. Work on a positive emotional response.
