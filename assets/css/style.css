@@ -73,6 +73,105 @@ footer {
     border-bottom: 1px solid black;
 }
 
+/* Meet Coco */
+
+#meet-coco {
+    height: 600px;
+}
+
+#left-about{
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading p {
+    text-align: right;
+}
+
+.right-about-heading h2 {
+    text-align: right;
+}
+
+/* center image */
+
+#welcome {
+    padding-top: 50px;
+    font-size: 200%;
+    text-align: center;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: gold;
+    border-width: 0px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-cover-bg {
+    background: url("../images/main.jpg") no-repeat center center;
+    height: 100%;
+    padding: 30px;
+	border-style: solid;
+	border-width: 10px;
+	border-color: gold;
+    border-radius: 50%;
+	
+    /* animates the zoom effect on loading page */
+    animation-name: coco-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+
+/* creates the level of zoom for the Coco image */
+@keyframes coco-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1)
+    }
+}
+
 #gallery {
     clear: both;
     line-height: 0;

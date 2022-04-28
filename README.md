@@ -1,10 +1,16 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
- My Very First Web Page
-
 Welcome to my very first website!
 
 This website was built as part of the learning material for Code Institute's Fullstack Web Developer program.
+
+A lot of experimentation, trial, and at times, mostly error.  
+
+For this reason, most of the work was completed offline using Virtual Studio and Notepad++.
+
+A little concerned that I would flood GitHub with thousands of commits and restores.
+
+Uploaded to GitHub at key points.
 
 You can check out the website [here](https://a)! (not yet)
 
@@ -27,12 +33,19 @@ This project was written in HTML & CSS and is currently hosted on GitHub pages [
 ## Credits
 
 GitHub for the development tools and website hosting.
+
 FontAwesome for the icons.
+
 Unsplash.com for the backgroung image. park-background-hd-1080p-99043.jpg
+
 DeZ-e for the Coco photos.
+
 YouTubers for the code tips and tricks, too many to mention.
+
 My Mentor - Plan more, code less !!!
+
 CodeInstitute and my fellow students for the assistance, encouragement and general moral boosters.
+
 Coffee
 
 ## Version History
@@ -48,17 +61,34 @@ Coffee
 6. Create blog. Update styles.
 
 **ToDo**
+
 Add index.html
+
 Add signup.html
+
 Review borders amd padding.
+
 Select appropriate colors and fonts.
+
 Work on a posative emotional response.
 
 ##Project Wireframe
 ![wire] (https://github.com/johnk2022/Project1/blob/055878338613ddeeb3b52a3ea14d810bdd202a8a/coco.jpg)
+
 ## Code verified
 
 ## Future Development
+Add MGM Lion type animation for the main image.
+
+Select better fonts and font colors to make text more readable.
+
+Automatically change background image by season.  IF DATE > MAY THEN IMAGE=SUMMER_BACKGROUND.JPG
+
+Add facility to Upload images to the Gallery
+
+Add facility to book grooming appointments.  Linking to a gmail calendar.
+
+Add facility to pay for grooming appointents.
 
 ## Bugs
 
