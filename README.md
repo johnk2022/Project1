@@ -30,6 +30,10 @@ Initally, family and friends.  Expanding to provide dog walking and grooming ser
 
 This project was written in HTML & CSS and is currently hosted on GitHub pages [here](https://a)! (not yet)
 
+## Project Wireframe
+
+![wire] (https://github.com/johnk2022/Project1/blob/055878338613ddeeb3b52a3ea14d810bdd202a8a/coco.jpg)
+
 ## Credits
 
 GitHub for the development tools and website hosting.
@@ -60,9 +64,11 @@ Coffee
 5. Create gallery and add images. Update styles.
 6. Create blog. Update styles.
 
-**ToDo**
+**April 28 2022:** 
+1. Add content, image and animation to main page. Update styles.
+2. Add map and text main page.  Update styles.
 
-Add index.html
+**ToDo**
 
 Add signup.html
 
@@ -72,8 +78,11 @@ Select appropriate colors and fonts.
 
 Work on a posative emotional response.
 
-##Project Wireframe
-![wire] (https://github.com/johnk2022/Project1/blob/055878338613ddeeb3b52a3ea14d810bdd202a8a/coco.jpg)
+
+
+## Bugs
+1. Main page image not filling frame.  Better image required.
+2. Main page social media links too far down.
 
 ## Code verified
 
@@ -90,7 +99,6 @@ Add facility to book grooming appointments.  Linking to a gmail calendar.
 
 Add facility to pay for grooming appointents.
 
-## Bugs
 
 ## FAQ 
 
