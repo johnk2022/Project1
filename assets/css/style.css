@@ -189,12 +189,12 @@ hr {
     width: 100%;
     border: none;
 }
+
 #gallery {
     clear: both;
     line-height: 0;
     column-count: 4;
     column-gap: 5px;
-	
 }
 
 #gallery > img {
@@ -211,3 +211,10 @@ hr {
     padding: 10px;
 	text-align:center;
 }
+
+#aboutu {
+    padding-top: 50px;
+    font-size: 200%;
+    text-align: center;
+    text-transform: capitalize;
+ }

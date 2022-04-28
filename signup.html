@@ -35,6 +35,63 @@
 		</ul>
 	</nav>
 </header>
+
+<section id="aboutu">
+
+
+<h3>Tell us about your puppy</h3>
+				
+<form action="https://formdump.codeinstitute.net" method="POST">
+
+	<fieldset>
+
+		<div>
+			<label for="name-field" class="block-label">Name</label>
+			<input id="name-field" type="text" name="full_name" placeholder="Puppy name" required>
+		</div>
+		<div>
+			<label for="email-field" class="block-label">Email</label>
+			<input id="email-field" type="email" name="email" placeholder="Puppy email" required>
+		</div>
+
+	</fieldset>
+	
+	<p>What age is your puppy?</p>
+
+			<input id="1-6-months" name="puppy-age" value="1-6-months" type="radio" required>
+			<label for="1-6-months">1-6 Months</label>
+
+			<input id="7-1-year" name="puppy-age" value="7-1-year" type="radio" required>
+			<label for="7-1-year">7 Months to 1 Year</label>
+
+			<input id="olderpuppy" name="puppy-age" value="olderpuppy" type="radio" required>
+			<label for="olderpuppy">Over 1 Year</label>
+
+		<fieldset>
+			<div>
+				<label for="fav-treat" class="block-label">What is Puppys favourite treat?</label>
+				<input id="fav-treats" list="treats" name="fav-treat" required>
+				<datalist id="treats">
+					<option value="Tescos Finest">
+					<option value="Posh Brand">
+					<option value="Other Brand">
+					<option value="Special Meds">
+				</datalist>
+			</div>
+
+		</fieldset>
+		
+		<fieldset>
+			<label for="feedback" class="block-label">Anything else we should know about your puppy?</label>
+			<br>
+			<textarea id="feedback" rows="4" cols="80" name="feedback"></textarea>
+		</fieldset>
+		
+		<h2>
+		<input type="submit" class="block-label" value="SUBMIT">
+		</h2>
+
+	</section>
 <footer>
     <h2 class="social-networks">Find COCO on</h2>
     <ul class="social-networks">

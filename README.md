@@ -67,12 +67,9 @@ Coffee
 **April 28 2022:** 
 1. Add content, image and animation to main page. Update styles.
 2. Add map and text main page.  Update styles.
+3. Add content to signup. Update styles.
 
 **ToDo**
-
-Add signup.html
-
-Review borders amd padding.
 
 Select appropriate colors and fonts.
 
