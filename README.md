@@ -75,13 +75,13 @@ Coffee.
 6. Cleanup index text.
 7. Cleanup signup and gallery text.
 8. Correct minor spelling mistakes.  Update image locations.
+9. Update image locations in gallery and blog.  Not appearing on live website. 
 
 **ToDo**
 1. Work on a positive emotional response.
 
 ## Bugs
 1. Main page image not filling frame.  Better image required.
-2. Main page social media links too far down.  Fixed April 28 2022.
 
 ## Code verified
 
@@ -100,11 +100,6 @@ Add facility to pay for grooming appointents.
 
 
 ## FAQ 
-
-**Why ?**
-
-It will  ....
-
 
 ---
 
