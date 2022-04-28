@@ -70,12 +70,13 @@ Coffee
 1. Add content, image and animation to main page. Update styles.
 2. Add map and text main page.  Update styles.
 3. Add content to signup. Update styles.
-4. Format fix. Fixed Section and unclosed elements per validator.w3.org
+4. Add media queries to style.css
+5. Format fix. Fixed Section and unclosed elements per validator.w3.org
+6. Cleanup index text.
+7. Cleanup signup and gallery text.
 
 
 **ToDo**
-
-Test on smaller screen sizes.
 
 Work on a posative emotional response.
 
