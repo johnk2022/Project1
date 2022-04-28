@@ -24,7 +24,9 @@ Coco the dog.  Puppy, Princess, Primadonna, and all-round nuisance.
 
 ### Audience
 
-Initally, family and friends.  Expanding to provide dog walking and grooming services to the general public.
+Initally, family and friends.  Requiired: Who is Coco.  Gallery.  Blog.  Meet up.
+
+Expanding to provide dog walking and grooming services to the general public.
 
 ## Technology
 
@@ -68,7 +70,8 @@ Coffee
 1. Add content, image and animation to main page. Update styles.
 2. Add map and text main page.  Update styles.
 3. Add content to signup. Update styles.
-4. Bug fix.  Adjust index to fit social media links.  Update README.
+4. Format fix. Fixed Section and unclosed elements per validator.w3.org
+
 
 **ToDo**
 
