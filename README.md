@@ -68,18 +68,17 @@ Coffee
 1. Add content, image and animation to main page. Update styles.
 2. Add map and text main page.  Update styles.
 3. Add content to signup. Update styles.
+4. Bug fix.  Adjust index to fit social media links.  Update README.
 
 **ToDo**
 
-Select appropriate colors and fonts.
+Test on smaller screen sizes.
 
 Work on a posative emotional response.
 
-
-
 ## Bugs
 1. Main page image not filling frame.  Better image required.
-2. Main page social media links too far down.
+2. Main page social media links too far down.  Fixed April 28 2022.
 
 ## Code verified
 
