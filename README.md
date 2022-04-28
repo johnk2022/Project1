@@ -12,7 +12,7 @@ A little concerned that I would flood GitHub with thousands of commits and resto
 
 Uploaded to GitHub at key points.
 
-You can check out the website [here](https://a)! (not yet)
+You can check out the website [here](https://johnk2022.github.io/Project1/)!
 
 ## Project Description
 
@@ -30,7 +30,7 @@ Expanding to provide dog walking and grooming services to the general public.
 
 ## Technology
 
-This project was written in HTML & CSS and is currently hosted on GitHub pages [here](https://a)! (not yet)
+This project was written in HTML & CSS and is currently hosted on GitHub pages [here](https://johnk2022.github.io/Project1/)!
 
 ## Project Wireframe
 
@@ -52,7 +52,7 @@ My Mentor - Plan more, code less !!!
 
 CodeInstitute and my fellow students for the assistance, encouragement and general moral boosters.
 
-Coffee
+Coffee.
 
 ## Version History
 
@@ -74,11 +74,10 @@ Coffee
 5. Format fix. Fixed Section and unclosed elements per validator.w3.org
 6. Cleanup index text.
 7. Cleanup signup and gallery text.
-
+8. Correct minor spelling mistakes.  Update image locations.
 
 **ToDo**
-
-Work on a posative emotional response.
+1. Work on a positive emotional response.
 
 ## Bugs
 1. Main page image not filling frame.  Better image required.
