@@ -32,6 +32,10 @@ Expanding to provide dog walking and grooming services to the general public.
 
 This project was written in HTML & CSS and is currently hosted on GitHub pages [here](https://johnk2022.github.io/Project1/)!
 
+## Code Verified
+validator.w3.org - April 29 2022
+jigsaw.w3.org/css-validator - April 29 2022
+
 ## Project Wireframe
 
 ![Wireframe](coco.jpg)
@@ -81,6 +85,7 @@ Coffee.
 **April 29 2022:** 
 1. Update image 6.jpg. Update inspirational text.
 2. Validation: Change section to div in gallery. Correct typo in treats on signup.
+3. Validation: Add missing } to end of style.css
 
 **ToDo**
 1. Work on a positive emotional response.
@@ -88,7 +93,6 @@ Coffee.
 ## Bugs
 1. Main page image not filling frame.  Better image required.
 
-## Code verified
 
 ## Future Development
 Add MGM Lion type animation for the main image.
