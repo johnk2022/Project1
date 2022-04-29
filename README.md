@@ -86,6 +86,7 @@ Coffee.
 1. Update image 6.jpg. Update inspirational text.
 2. Validation: Change section to div in gallery. Correct typo in treats on signup.
 3. Validation: Add missing } to end of style.css
+4. Add Valid CSS icon to index.
 
 **ToDo**
 1. Work on a positive emotional response.
