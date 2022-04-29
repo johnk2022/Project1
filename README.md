@@ -76,7 +76,10 @@ Coffee.
 7. Cleanup signup and gallery text.
 8. Correct minor spelling mistakes.  Update image locations.
 9. Update image locations in gallery and blog.  Not appearing on live website.
-10 Update README and wireframe image. 
+10. Update README and wireframe image. 
+
+**April 29 2022:** 
+1. Update image 6.jpg. Update inspirational text.
 
 **ToDo**
 1. Work on a positive emotional response.
