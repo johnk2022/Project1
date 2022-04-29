@@ -68,10 +68,10 @@ Coffee.
 
 **April 28 2022:** 
 1. Add content, image and animation to main page. Update styles.
-2. Add map and text main page.  Update styles.
+2. Add map and text to main page.  Update styles.
 3. Add content to signup. Update styles.
 4. Add media queries to style.css
-5. Format fix. Fixed Section and unclosed elements per validator.w3.org
+5. Format fix. Fixed Section and unclosed elements as per validator.w3.org
 6. Cleanup index text.
 7. Cleanup signup and gallery text.
 8. Correct minor spelling mistakes.  Update image locations.
@@ -80,6 +80,7 @@ Coffee.
 
 **April 29 2022:** 
 1. Update image 6.jpg. Update inspirational text.
+2. Validation: Change section to div in gallery. Correct typo in treats on signup.
 
 **ToDo**
 1. Work on a positive emotional response.
