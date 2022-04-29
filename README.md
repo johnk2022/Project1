@@ -46,9 +46,11 @@ GitHub for the development tools and website hosting.
 
 FontAwesome for the icons.
 
+Google for the fonts.
+
 Unsplash.com for the backgroung image. park-background-hd-1080p-99043.jpg
 
-DeZ-e for the Coco photos.
+DeZ-E for the Coco photos.
 
 YouTubers for the code tips and tricks, too many to mention.
 
@@ -87,6 +89,8 @@ Coffee.
 2. Validation: Change section to div in gallery. Correct typo in treats on signup.
 3. Validation: Add missing } to end of style.css
 4. Add Valid CSS icon to index.
+5. Change default font to Googles Fira Sans
+6. Update README.md
 
 **ToDo**
 1. Work on a positive emotional response.
@@ -100,7 +104,7 @@ Add MGM Lion type animation for the main image.
 
 Select better fonts and font colors to make text more readable.
 
-Automatically change background image by season.  IF DATE > MAY THEN IMAGE=SUMMER_BACKGROUND.JPG
+Automatically change background image by season.
 
 Add facility to Upload images to the Gallery
 
@@ -110,7 +114,7 @@ Add facility to pay for grooming appointents.
 
 
 ## FAQ 
-
+N/A
 ---
 
 Happy coding!

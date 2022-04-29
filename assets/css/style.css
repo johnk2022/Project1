@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     border: none;
-    font-family: sans-serif, sans-serif;
-	color: white;	
+    font-family: 'Fira Sans', sans-serif;
+	color: whitesmoke;
 }
 
 
@@ -154,7 +156,7 @@ hr {
 	border-color: gold;
     border-radius: 50%;
 	
-    /* animates the zoom effect on loading page */
+/* animates the zoom effect on loading page */
     animation-name: coco-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
@@ -187,7 +189,7 @@ hr {
 #map {
     height: 100%;
     width: 100%;
-    border: none;
+    border: 2px;
 }
 
 #gallery {
@@ -214,7 +216,7 @@ hr {
 
 #aboutu {
     padding-top: 50px;
-    font-size: 200%;
+    font-size: 125%;
     text-align: center;
     text-transform: capitalize;
  }
