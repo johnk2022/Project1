@@ -44,6 +44,8 @@ jigsaw.w3.org/css-validator - April 29 2022
 
 GitHub for the development tools and website hosting.
 
+Coders Coffee House and Love Running for some ideas.
+
 FontAwesome for the icons.
 
 Google for the fonts.

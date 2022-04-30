@@ -33,6 +33,7 @@ footer {
 
 .social-networks {
     text-align: center;
+    padding: 1%;
 }
 .social-networks > li {
     display: inline;
@@ -50,6 +51,7 @@ footer {
 #navlinks {
     font-size: 110%;
     letter-spacing: 4px;
+    padding-bottom: 35px;
 }
 
 #navlinks #logo {
@@ -195,7 +197,7 @@ hr {
 #gallery {
     clear: both;
     line-height: 0;
-    column-count: 4;
+    column-count: 3;
     column-gap: 5px;
 }
 
@@ -257,7 +259,7 @@ hr {
 /* For medium screens sizes from 950px wide and down */
 @media screen and (max-width: 950px){
 
-    #menu{
+    #navlinks{
         clear: left;
         float: left;
         margin-left: 30px; 
@@ -273,5 +275,12 @@ hr {
         width:90%;
         height: 1200px;
         margin: 0 auto;
+    }
+}
+
+/* For small screens sizes from 800px wide and down */
+@media screen and (max-width: 800px){
+    #gallery{
+        column-count: 2;
     }
 }
