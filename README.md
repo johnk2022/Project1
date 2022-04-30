@@ -94,6 +94,10 @@ Coffee.
 5. Change default font to Googles Fira Sans
 6. Update README.md
 
+**April 30 2022:** 
+1. Update padding for navlinks and social networks.
+2. Adjust style.css for 800px screens.
+
 **ToDo**
 1. Work on a positive emotional response.
 
