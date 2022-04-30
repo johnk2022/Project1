@@ -291,4 +291,42 @@ hr {
     #map {
     padding-top: 10%;
     }
+
+    #logo {
+        text-align: center;
+        font-size: 100%;
+        margin-left: 30px;
+    }
+
+    h1, h2{
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+
+    .right-about-heading p {
+        text-align: left;
+    }
+    
+    .right-about-heading h2 {
+        text-align: left;
+    }
+
+    .left-about-heading {
+        width: 60%;
+        float: left;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+    }
+
+    #welcome {
+        font-size: 150%;
+        text-align: left;
+        float: left;
+    }
+    #navlinks {
+        font-size: 110%;
+        letter-spacing: 1px;
+        padding-bottom: 1px;
+    }
 }
