@@ -105,7 +105,8 @@ Coffee.
 4. Adjust style.css for 800px screens.
 5. CSS Grid Corrections.
 6. Adjust style.css for 800px screens.
-7. Adjust style.css for 800px screens.
+7. Adjust style.css for 800px screens.......
+8. Add new image for smaller screens. 
 
 **ToDo**
 1. Work on evoking a positive emotional response.
