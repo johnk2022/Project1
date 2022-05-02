@@ -283,9 +283,20 @@ footer {
     #left-about, #right-about {
         float:left;
         padding: 0;
+        width: inherit
     }
 
-    #center-about{
+    .left-about-heading h2, .right-about-heading h2{
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p, .right-about-heading p{
+        text-align: center;
+        padding: 0 20px 0 20px;
+    }
+    
+    #center-about {
         clear: both;
         float: left;
         padding: 0;
