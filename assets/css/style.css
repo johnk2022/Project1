@@ -284,12 +284,13 @@ footer {
     #left-about, #right-about {
         float:left;
         padding: 0;
-        width: inherit
+        width: inherit;
     }
 
     .left-about-heading h2, .right-about-heading h2{
         text-align: center;
-        font-size=100%
+        font-size:100%;
+        width: inherit;
     }
 
     .left-about-heading p, .right-about-heading p{
