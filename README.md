@@ -101,6 +101,7 @@ Coffee.
 **May 02 2022:** 
 1. Adjust style.css navlinks for 800px screens.  Create copies of index.html and style.css.  Update style.css for CSS Grid.
 2. Reformat main content with CSS Grid.
+3. Adjust style.css navlinks for 800px screens.
 
 **ToDo**
 1. Work on a positive emotional response.

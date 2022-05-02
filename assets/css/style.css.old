@@ -240,6 +240,23 @@ hr {
 
 /* For large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
+ 
+}
+
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px){
+
+    #navlinks{
+        clear: left;
+        float: left;
+        margin-left: 10px; 
+        margin-bottom: 10px;
+        line-height: 15px;
+    }
+
+    #cover-text{
+        left:0px;
+    }
     #meet-coco{
         width: 65%;
         height: 1200px;
@@ -267,28 +284,7 @@ hr {
     hr {
         display: none;
     }
-}
 
-/* For medium screens sizes from 950px wide and down */
-@media screen and (max-width: 950px){
-
-    #navlinks{
-        clear: left;
-        float: left;
-        margin-left: 10px; 
-        margin-bottom: 10px;
-        line-height: 15px;
-    }
-
-    #cover-text{
-        left:0px;
-    }
-
-    #meet-coco{
-        width:90%;
-        height: 1200px;
-        margin: 0 auto;
-    }
 }
 
 /* For small screens sizes from 800px wide and down */
