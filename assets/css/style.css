@@ -113,6 +113,19 @@ footer {
     margin: 0 auto;
 }
 
+#left-about1 {
+    padding-top: 30px;
+    float: left;
+}
+
+#right-about1 {
+    padding-top: 30px;
+    float: right;
+}
+
+#center-about1 {
+    margin: 0 auto;
+} 
 .left-about-heading {
     width: 70%;
     float: right;
@@ -149,9 +162,18 @@ footer {
     border-width: 0px;
     border-radius: 50%;
     margin: 0 auto;
-	
 }
 
+#circle-container1 {
+    width: 300px;
+    height: 300px;
+    padding-top: 30px;
+    border-style: solid;
+    border-color: gold;
+    border-width: 0px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
 #circle-cover-bg {
     background: url("../images/main.jpg") no-repeat center center;
     height: 100%;
@@ -253,7 +275,16 @@ footer {
         border-radius: 50%;
         margin: 0 auto;
     }
-    
+    #circle-container1 {
+        width: 150px;
+        height: 150px;
+        padding-top: 15px;
+        border-style: solid;
+        border-color: gold;
+        border-width: 0px;
+        border-radius: 50%;
+        margin: 0 auto;
+    }  
     #circle-cover-bg {
         background: url("../images/main1.jpg") no-repeat center center;
         height: 100%;
@@ -295,6 +326,12 @@ footer {
     }
     
     #left-about, #right-about {
+        width:100%;
+        float:left;
+        padding: 0;
+    }
+
+    #left-about1, #right-about1 {
         width:100%;
         float:left;
         padding: 0;

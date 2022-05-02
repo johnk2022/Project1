@@ -101,14 +101,13 @@ Coffee.
 **May 02 2022:** 
 1. Adjust style.css navlinks for 800px screens.  Create copies of index.html and style.css.  Update style.css for CSS Grid.
 2. Reformat main content with CSS Grid.
-3. Adjust style.css for 800px screens.
-4. Adjust style.css for 800px screens.
-5. CSS Grid Corrections.
-6. Adjust style.css for 800px screens.
-7. Adjust style.css for 800px screens.......
-8. Add new image for smaller screens. 
-9. Cleanup text content.
-10. Add top bottom margins to signup
+3. Adjust style.css for 800px screens X 2
+4. CSS Grid Corrections.
+5. Adjust style.css for 800px screens X 5
+6. Add new image for smaller screens. 
+7. Cleanup text content.
+8. Add top bottom margins to signup
+9. Validation Fix duplicate div ids validator.w3.org
 
 **ToDo**
 1. Work on evoking a positive emotional response.
