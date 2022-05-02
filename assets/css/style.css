@@ -98,18 +98,15 @@ footer {
   
 #left-about{
     padding-top: 30px;
-    width: 33%;
     float: left;
 }
 
 #right-about {
     padding-top: 30px;
-    width: 33%;
     float: right;
 }
 
 #center-about {
-    width: 33%;
     margin: 0 auto;
 }
 
@@ -146,7 +143,7 @@ hr {
 /* center image */
 
 #welcome {
-    padding-top: 50px;
+    padding-top: 10px;
     font-size: 200%;
     text-align: center;
 }
@@ -190,10 +187,6 @@ hr {
 }
 
 
-#bookit {
-	text-align: center;
-	margin-bottom: 10px;
-}
 
 #map-wrapper {
 	text-align: center;
@@ -240,6 +233,25 @@ hr {
 
 /* For large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
+}  
+
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px){
+
+    #navlinks{
+        clear: left;
+        float: left;
+        margin-left: 10px; 
+        margin-bottom: 10px;
+        line-height: 10px;
+    }
+	
+	#navlinks li {
+    float: left;
+    list-style-type: none;
+    margin-right: 5px;
+}
+
     #meet-coco{
         width: 65%;
         height: 1200px;
@@ -267,27 +279,9 @@ hr {
     hr {
         display: none;
     }
-}
-
-/* For medium screens sizes from 950px wide and down */
-@media screen and (max-width: 950px){
-
-    #navlinks{
-        clear: left;
-        float: left;
-        margin-left: 10px; 
-        margin-bottom: 10px;
-        line-height: 15px;
-    }
-
-    #cover-text{
-        left:0px;
-    }
-
-    #meet-coco{
-        width:90%;
-        height: 1200px;
-        margin: 0 auto;
+	
+    #gallery{
+        column-count: 2;
     }
 }
 
