@@ -108,6 +108,7 @@ Coffee.
 7. Adjust style.css for 800px screens.......
 8. Add new image for smaller screens. 
 9. Cleanup text content.
+10. Add top bottom margins to signup
 
 **ToDo**
 1. Work on evoking a positive emotional response.

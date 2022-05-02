@@ -220,6 +220,17 @@ footer {
     text-transform: capitalize;
  }
 
+ #aboutu h3{
+    padding-top: 50px;
+    font-size: 125%;
+    text-align: center;
+    text-transform: capitalize;
+ }
+
+ fieldset {
+     margin-top: 10px;
+     margin-bottom: 10px;
+ }
  /* Media queries */
 /* Media queries */
 
