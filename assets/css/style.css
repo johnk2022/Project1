@@ -301,8 +301,13 @@ footer {
         font-size: 100%;
     }
     
-    .left-about-heading p, .right-about-heading p{
+    .left-about-heading p{
         text-align: left;
+        padding: 0 0px 0 0px;
+    }
+
+    .right-about-heading p{
+        text-align: right;
         padding: 0 0px 0 0px;
     }
     
@@ -315,10 +320,18 @@ footer {
     
     hr {
         display: none;
-        }
+    }
             
     #gallery{
         column-count: 1;
-        }
     }
+
+     #map-wrapper {
+        padding-top: 10%;
+    }
+    
+    #map {
+    padding-top: 10%;
+    }
+}
     
