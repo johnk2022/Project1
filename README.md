@@ -108,6 +108,8 @@ Coffee.
 7. Cleanup text content.
 8. Add top bottom margins to signup
 9. Validation Fix duplicate div ids validator.w3.org
+10. Adjust W3C logo on index.html
+11. Minor spacing adjustments
 
 **ToDo**
 1. Work on evoking a positive emotional response.
