@@ -245,7 +245,6 @@ footer {
 }
 
     #meet-coco{
-        width: 65%;
         height: 1200px;
         margin: 0 auto;
     }
@@ -256,14 +255,12 @@ footer {
     }
 
     #left-about, #right-about {
-        width:100%;
         float:left;
         padding: 0;
     }
 
     #center-about{
         clear: both;
-        width: 100%;
         float: left;
         padding: 0;
     }
@@ -271,9 +268,10 @@ footer {
     hr {
         display: none;
     }
+
 	
     #gallery{
-        column-count: 3;
+        column-count: 2;
     }
 }
 
