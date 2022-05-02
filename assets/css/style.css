@@ -234,23 +234,6 @@ footer {
         padding-bottom: 1px;
     }
 
-    #cover-text{
-        left:0px;
-    }
-    #meet-coco{
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-    #welcome {
-        padding: 30px 0;
-        margin-top: 0;
-        font-size: 100%;
-        text-align: left;
-        float: left;
-    }
-
     .grid1 {
         display: grid; 
         grid-auto-columns: 1fr; 
@@ -266,57 +249,5 @@ footer {
           "."; 
         align-items: stretch; 
       }
-
-    .left-about-heading {
-        width: 100%;
-        float: left;
-        line-height: 20px;
-        clear: both;
-        margin-bottom: 50px;
-    }
-
-
-    .right-about-heading p {
-        text-align: left;
-    }
-    
-    .right-about-heading h2 {
-        text-align: left;
-    }
-
-    #left-about, #right-about {
-        width:100%;
-        float:left;
-        padding: 0;
-    }
-
-    #center-about{
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0;
-    }
-
-    hr {
-        display: none;
-    }
-
-    #gallery{
-        column-count: 1;
-    }
-
-    #map-wrapper {
-        padding-top: 10%;
-    }
-    
-    #map {
-    padding-top: 10%;
-    }
-
-    #logo {
-        text-align: center;
-        font-size: 100%;
-        margin-left: 30px;
-    }
 
 }
