@@ -98,6 +98,9 @@ Coffee.
 1. Update padding for navlinks and social networks.
 2. Adjust style.css for 800px screens.
 
+**May 02 2022:** 
+1. Adjust style.css navlinks for 800px screens.  Create copies of index.html and style.css.
+
 **ToDo**
 1. Work on a positive emotional response.
 
