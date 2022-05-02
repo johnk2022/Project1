@@ -257,7 +257,7 @@ footer {
  .copyright {
     margin-top: 10px;
     text-align: center;
-    font-size: 50%;
+    font-size: 75%;
  }
 
 
@@ -271,7 +271,15 @@ footer {
 /* For medium screens sizes from 800px wide and down */
 
 @media (max-width: 800px) {
-  
+
+    #logo {
+        clear: left;
+        float: left;
+        font-size: 120%;
+        margin-left: 2%;
+                
+    }
+            
     #circle-container {
         width: 150px;
         height: 150px;
@@ -304,7 +312,7 @@ footer {
        #navlinks{
             clear: left;
             float: left;
-            margin-left: 40px; 
+            margin-left: 2%; 
             margin-bottom: 10px;
             line-height: 10px;
     }
@@ -315,21 +323,17 @@ footer {
         margin-right: 5px;
     }
         
-    #logo {
-        float: left;
-        font-size: 120%;
-        margin-left: 75px;
-    }
-            
+
     #meet-coco{
         height: 350px;
         margin: 0 auto;
     }
     
     #welcome {
+        margin-left: 2%;
         padding: 30px 0;
         margin-top: 0;
-        font-size: 100%
+        font-size: 100%;
     }
     
     #left-about, #right-about {
