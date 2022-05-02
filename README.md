@@ -33,8 +33,8 @@ Expanding to provide dog walking and grooming services to the general public.
 This project was written in HTML & CSS and is currently hosted on GitHub pages [here](https://johnk2022.github.io/Project1/)!
 
 ## Code Verified
-validator.w3.org - April 29 2022
-jigsaw.w3.org/css-validator - April 29 2022
+validator.w3.org - May 02 2022
+jigsaw.w3.org/css-validator - May 02 2022
 
 ## Project Wireframe
 

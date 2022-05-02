@@ -253,8 +253,15 @@ footer {
      margin-top: 10px;
      margin-bottom: 10px;
  }
+
+ .copyright {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 50%;
+ }
+
+
  /* Media queries */
-/* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
@@ -315,7 +322,7 @@ footer {
     }
             
     #meet-coco{
-        height: 600px;
+        height: 350px;
         margin: 0 auto;
     }
     
@@ -379,11 +386,11 @@ footer {
     }
 
      #map-wrapper {
-        padding-top: 10%;
+        padding-top: 5%;
     }
     
     #map {
-    padding-top: 10%;
+    padding-top: 5%;
     }
 }
     
