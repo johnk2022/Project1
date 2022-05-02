@@ -221,7 +221,7 @@ footer {
  }
 
  /* Media queries */
-/* For large to medium screens sizes from 1200px wide and down */
+/* For large to medium screens sizes from 800px wide and down */
 @media screen and (max-width: 1200px){
     #navlinks{
         clear: left;
@@ -236,6 +236,7 @@ footer {
 
     .grid1 {
         display: grid; 
+        grid-auto-flow: row;
         grid-auto-columns: 1fr; 
         grid-template-columns: 1fr; 
         grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr; 
