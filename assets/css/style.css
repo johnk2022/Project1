@@ -278,6 +278,7 @@ footer {
     #welcome {
         padding: 30px 0;
         margin-top: 0;
+        font-size: 100%;
     }
 
     #left-about, #right-about {
@@ -287,15 +288,15 @@ footer {
     }
 
     .left-about-heading h2, .right-about-heading h2{
-        width: 100%;
         text-align: center;
+        font-size=100%
     }
 
     .left-about-heading p, .right-about-heading p{
         text-align: center;
         padding: 0 20px 0 20px;
     }
-    
+
     #center-about {
         clear: both;
         float: left;
