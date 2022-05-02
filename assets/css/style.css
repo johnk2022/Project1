@@ -255,7 +255,7 @@ footer {
        #navlinks{
             clear: left;
             float: left;
-            margin-left: 10px; 
+            margin-left: 30px; 
             margin-bottom: 10px;
             line-height: 10px;
     }
@@ -269,10 +269,9 @@ footer {
     #logo {
         float: left;
         font-size: 120%;
-        margin-left: 10px;
+        margin-left: 50px;
     }
-        
-    
+            
     #meet-coco{
         height: 600px;
         margin: 0 auto;
@@ -301,6 +300,11 @@ footer {
         font-size: 100%;
     }
     
+    .right-about-heading h2{
+        width: 100%;
+        text-align: right;
+        font-size: 100%;
+    }
     .left-about-heading p{
         text-align: left;
         padding: 0 0px 0 0px;
