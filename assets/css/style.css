@@ -221,10 +221,23 @@ footer {
  }
 
  /* Media queries */
-
 /* For large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px){
-	#meet-coco{
+    #navlinks{
+        clear: left;
+        float: left;
+        margin-left: 10px; 
+        margin-bottom: 10px;
+        line-height: 15px;
+        font-size: 110%;
+        letter-spacing: 1px;
+        padding-bottom: 1px;
+    }
+
+    #cover-text{
+        left:0px;
+    }
+    #meet-coco{
         width: 65%;
         height: 1200px;
         margin: 0 auto;
@@ -233,6 +246,26 @@ footer {
     #welcome {
         padding: 30px 0;
         margin-top: 0;
+        font-size: 100%;
+        text-align: left;
+        float: left;
+    }
+
+    .left-about-heading {
+        width: 100%;
+        float: left;
+        line-height: 20px;
+        clear: both;
+        margin-bottom: 50px;
+    }
+
+
+    .right-about-heading p {
+        text-align: left;
+    }
+    
+    .right-about-heading h2 {
+        text-align: left;
     }
 
     #left-about, #right-about {
@@ -251,4 +284,23 @@ footer {
     hr {
         display: none;
     }
+
+    #gallery{
+        column-count: 1;
+    }
+
+    #map-wrapper {
+        padding-top: 10%;
+    }
+    
+    #map {
+    padding-top: 10%;
+    }
+
+    #logo {
+        text-align: center;
+        font-size: 100%;
+        margin-left: 30px;
+    }
+
 }
