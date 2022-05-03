@@ -1,19 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500&display=swap');
 
 * {
-    margin: 0;
-    padding: 0;
-    border: none;
-    font-family: 'Fira Sans', sans-serif;
-    color: whitesmoke;
+  margin: 0;
+  padding: 0;
+  border: none;
+  font-family: 'Fira Sans', sans-serif;
+  color: whitesmoke;
 }
 
 body {
-    background-image: url("../images/background.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-  
+  background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 h1, h2{
@@ -21,17 +20,19 @@ h1, h2{
     letter-spacing: 2px;
 }
 
-.logo {
+#logo {
     float: left;
     font-size: 180%;
-    }
+    margin-left: 20px;
+}
 
 footer {
     height: 10px;
-    }
+}
 
 .social-networks {
     text-align: center;
+
 }
 .social-networks > li {
     display: inline;
@@ -45,27 +46,28 @@ footer {
 
 /* navigation links */
 
-.navlinks {
+#navlinks {
     font-size: 110%;
     letter-spacing: 4px;
     padding-bottom: 35px;
-    }
+}
 
-.navlinks .logo {
+#navlinks #logo {
     line-height: 75px;
 }
 
-.navlinks li {
+#navlinks li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
 }
 
-.navlinks a {
+#navlinks a {
     text-decoration: none;
+    color: inherit;
 }
 
-.navlinks a:hover {
+#navlinks a:hover {
     border-bottom: 1px solid black;
 }
 
@@ -75,11 +77,11 @@ footer {
 
 /* Meet Coco */
 
-.meet-coco {
- 
+#meet-coco {
+    height: 600px;
 }
 
-.welcome {
+#welcome {
     padding-top: 10px;
     font-size: 200%;
     text-align: center;
@@ -88,40 +90,56 @@ footer {
 .grid1 {
   display: grid; 
   grid-auto-columns: 1fr; 
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr; 
+  grid-template-columns: 1fr 1fr 1fr; 
+  grid-template-rows: 1fr 1fr; 
+  gap: 1px 5px; 
   grid-template-areas: 
-    ". . . . ."
-    ". . . . ."; 
+    ". . ."
+    ". . ."; 
+  align-items: stretch; 
+}
 
-  }
-
-.left-about{
-    padding-top: 1px;
+#left-about{
+    padding-top: 30px;
     float: left;
 }
 
-.right-about {
-    padding-top: 1px;
+#right-about {
+    padding-top: 30px;
     float: right;
 }
 
-.center-about {
+#center-about {
     margin: 0 auto;
 }
 
+#left-about1 {
+    padding-top: 30px;
+    float: left;
+}
+
+#right-about1 {
+    padding-top: 30px;
+    float: right;
+}
+
+#center-about1 {
+    margin: 0 auto;
+} 
 .left-about-heading {
-    width: 100%;
+    width: 70%;
+    float: right;
     line-height: 20px;
     clear: both;
-    float: right;
- 
+    margin-bottom: 50px;
 }
 
 .right-about-heading {
-    width: 100%;
+    width: 70%;
+    float: left;
     line-height: 20px;
     clear: both;
-    float:left;
+    margin-bottom: 50px;
 }
 
 .right-about-heading p {
@@ -135,10 +153,10 @@ footer {
 /* center image */
 
 
-.circle-container {
+#circle-container {
     width: 300px;
     height: 300px;
-    padding-top: 12px;
+    padding-top: 30px;
     border-style: solid;
     border-color: gold;
     border-width: 0px;
@@ -146,10 +164,20 @@ footer {
     margin: 0 auto;
 }
 
-.circle-cover-bg {
+#circle-container1 {
+    width: 300px;
+    height: 300px;
+    padding-top: 30px;
+    border-style: solid;
+    border-color: gold;
+    border-width: 0px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+#circle-cover-bg {
     background: url("../images/main.jpg") no-repeat center center;
     height: 100%;
-    padding: 12px;
+    padding: 30px;
 	border-style: solid;
 	border-width: 10px;
 	border-color: gold;
@@ -173,28 +201,31 @@ footer {
     }
 }
 
-.map-wrapper {
+#map-wrapper {
 	text-align: center;
+    height: 175px;
     margin-bottom: 5px;
-    padding-top: 15px;
 }
 
-.map {
-
+#map {
+    height: 100%;
+    width: 100%;
+    border: 2px;
 }
 
-.gallery {
+#gallery {
     clear: both;
+    line-height: 0;
     column-count: 3;
     column-gap: 5px;
 }
 
-.gallery > img {
+#gallery > img {
     width: 100%;
 	margin-bottom: 5px;
 }
 
-.bloghead {
+#bloghead {
     padding-top: 50px;
     font-size: 200%;
     text-align: center;
@@ -204,14 +235,14 @@ footer {
 	text-align:center;
 }
 
-.aboutu {
+#aboutu {
     padding-top: 50px;
     font-size: 125%;
     text-align: center;
     text-transform: capitalize;
  }
 
- .aboutu h3{
+ #aboutu h3{
     padding-top: 50px;
     font-size: 125%;
     text-align: center;
@@ -241,14 +272,15 @@ footer {
 
 @media (max-width: 800px) {
 
-    .logo {
+    #logo {
         clear: left;
         float: left;
         font-size: 120%;
-             
+        margin-left: 2%;
+                
     }
             
-    .circle-container {
+    #circle-container {
         width: 150px;
         height: 150px;
         padding-top: 15px;
@@ -258,8 +290,17 @@ footer {
         border-radius: 50%;
         margin: 0 auto;
     }
-
-    .circle-cover-bg {
+    #circle-container1 {
+        width: 150px;
+        height: 150px;
+        padding-top: 15px;
+        border-style: solid;
+        border-color: gold;
+        border-width: 0px;
+        border-radius: 50%;
+        margin: 0 auto;
+    }  
+    #circle-cover-bg {
         background: url("../images/main1.jpg") no-repeat center center;
         height: 100%;
         padding: 15px;
@@ -268,8 +309,7 @@ footer {
         border-color: gold;
         border-radius: 50%;
     }
-
-    .navlinks {
+       #navlinks{
             clear: left;
             float: left;
             margin-left: 2%; 
@@ -277,42 +317,51 @@ footer {
             line-height: 10px;
     }
         
-    .navlinks li {
+        #navlinks li {
         float: left;
         list-style-type: none;
         margin-right: 5px;
     }
         
 
-    .meet-coco{ 
+    #meet-coco{
+        height: 350px;
         margin: 0 auto;
     }
     
-    .welcome {
+    #welcome {
         margin-left: 2%;
         padding: 30px 0;
         margin-top: 0;
         font-size: 100%;
     }
     
-    .left-about, .right-about {
+    #left-about, #right-about {
         width:100%;
         float:left;
         padding: 0;
     }
 
+    #left-about1, #right-about1 {
+        width:100%;
+        float:left;
+        padding: 0;
+    }
         
     .left-about-heading, .right-about-heading{
+        width: inherit;
         font-size: 100%;
     }
     
     .left-about-heading h2, .right-about-heading h2{
+        width: 100%;
         text-align: left;
         font-size: 100%;
     }
     
     .right-about-heading h2{
-        text-align: left;
+        width: 100%;
+        text-align: right;
         font-size: 100%;
     }
     .left-about-heading p{
@@ -325,8 +374,9 @@ footer {
         padding: 0 0px 0 0px;
     }
     
-    .center-about{
+    #center-about{
         clear: both;
+        width: 100%;
         float: left;
         padding: 0;
     }
@@ -335,33 +385,16 @@ footer {
         display: none;
     }
             
-    .gallery{
+    #gallery{
         column-count: 1;
-        text-align: left;
     }
 
-    .map-wrapper {
+     #map-wrapper {
         margin-top: 1%;
     }
     
-    .map {
+    #map {
     padding-top: 1%;
     }
-
-    .logo {
-        float: left;
-        font-size: 100%;
-        }
-
-    .bloghead {
-        padding-top: 50px;
-        font-size: 100%;
-
-        }
-
-        .blogpost {
-            padding: 10px;
-            text-align:center;
-        }
-    }
+}
     
