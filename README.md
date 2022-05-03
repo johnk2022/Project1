@@ -111,6 +111,9 @@ Coffee.
 10. Adjust W3C logo on index.html
 11. Minor spacing adjustments
 
+**May 03 2022:** 
+1. Adjust format on all files to provide better response
+
 **ToDo**
 1. Work on evoking a positive emotional response.
 
