@@ -6,12 +6,6 @@ This website was built as part of the learning material for Code Institute's Ful
 
 A lot of experimentation, trial, and at times, mostly error.  
 
-For this reason, most of the work was completed offline using Virtual Studio and Notepad++.
-
-A little concerned that I would flood GitHub with thousands of commits and restores.
-
-Uploaded to GitHub at key points.
-
 You can check out the website [here](https://johnk2022.github.io/Project1/)!
 
 ## Project Description
@@ -24,9 +18,9 @@ Coco the dog.  Puppy, Princess, Primadonna, and all-round nuisance.
 
 ### Audience
 
-Initally, family and friends.  Requiired: Who is Coco.  Gallery.  Blog.  Meet up.
+To share puppys growth and adventures wit family and friends.  Requiired: Who is Coco.  Gallery.  Blog.  Meet up.
 
-Expanding to provide dog walking and grooming services to the general public.
+Expanding at a later date to provide grooming services to the general public.
 
 ## Technology
 
@@ -44,7 +38,7 @@ jigsaw.w3.org/css-validator - May 02 2022
 
 GitHub for the development tools and website hosting.
 
-Coders Coffee House and Love Running for some ideas.
+Coders Coffee House and Love Running code for basic structure and layout
 
 FontAwesome for the icons.
 
@@ -113,6 +107,9 @@ Coffee.
 
 **May 03 2022:** 
 1. Adjust format on all files to provide better response
+
+**May 05 2022:** 
+1. Rename sigup.html to meetup.html.  Adjust links on all pages.
 
 **ToDo**
 1. Work on evoking a positive emotional response.
