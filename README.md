@@ -24,7 +24,7 @@ Expanding at a later date to provide grooming services to the general public.
 
 ## Technology
 
-This project was written in HTML & CSS and is currently hosted on GitHub pages [here](https://johnk2022.github.io/Project1/)!
+This project was written in HTML & CSS and is currently hosted on GitHub pages [here](https://github.com/johnk2022/Project1)!
 
 ## Code Verified
 validator.w3.org - May 02 2022
