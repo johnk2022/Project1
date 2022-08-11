@@ -5,11 +5,11 @@
     padding: 0;
     border: none;
     font-family: 'Fira Sans', sans-serif;
-    color: whitesmoke;
+    color: red;
 }
 
 body {
-    background-image: url("../images/background.jpg");
+    background-image: url("../images/in-the-park.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;

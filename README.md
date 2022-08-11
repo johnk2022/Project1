@@ -111,6 +111,9 @@ Coffee.
 **May 05 2022:** 
 1. Rename sigup.html to meetup.html.  Adjust links on all pages.
 
+**August 11 2022:**
+1. Replace background image and change font color to improve contrast.
+ 
 **ToDo**
 1. Work on evoking a positive emotional response.
 
